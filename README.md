@@ -7,4 +7,4 @@ The original plugin can be found on the Vim scripts archive here:
 
 The plugin's home page is here:
 
-<http://mysite.verizon.net/astronaut/vim/align.html>
+<http://www.drchip.org/astronaut/vim/index.html#ALIGN>
